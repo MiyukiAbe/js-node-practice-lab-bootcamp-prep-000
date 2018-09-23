@@ -10,7 +10,10 @@
 // console.log(height+1)
 
 
-
+Name:
+Joe
+Height:
+74
 
 
 
