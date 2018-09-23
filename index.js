@@ -7,7 +7,7 @@ var name = "Miyuki"
 
 
 //let name = "Joe";
-let height = 74;
+let height = "74";
 
 console.log("Name:")
 console.log(name)
