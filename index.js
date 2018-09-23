@@ -13,10 +13,6 @@
 let name = "Joe"
 let height = 74
 
-Name:
-Joe
-Height:
-74
 
 
 
