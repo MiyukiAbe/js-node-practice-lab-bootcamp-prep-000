@@ -1,12 +1,12 @@
 // write your code below!
 
-// var name = "Miyuki"
+var name = "Miyuki"
 // var height = 5
 
 
 
 
-let name = "Joe";
+//let name = "Joe";
 let height = 74;
 
 console.log("Name:")
