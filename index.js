@@ -10,6 +10,9 @@
 // console.log(height+1)
 
 
+let name = "Joe"
+let height = 74
+
 Name:
 Joe
 Height:
